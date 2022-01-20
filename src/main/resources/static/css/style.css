@@ -1,0 +1,7 @@
+.button{
+   background-image: linear-gradient(teal, orange);
+   color: white;
+   text-transform: capitalize;
+   font-family: sans-serif;
+   font-weight: bold;
+}
